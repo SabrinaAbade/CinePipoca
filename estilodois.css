@@ -1,0 +1,34 @@
+
+fieldset
+{
+border-color:#92C4E4;
+border-width:6px;
+border-radius: 20px;
+
+}
+legend
+{
+  font-family: "Londrina Solid Light";
+margin:10px;
+margin-top:10px;
+font-size:22px;
+}
+	
+	.botao {
+	border-radius:30px;
+	font-size:22px;
+	font-family:Berlin Sans FB;
+	color:white;
+	margin-bottom:1em;
+	top:90%;
+	width:10%;
+	   height:30px;
+	background:#92C4E4;
+position:center;
+border:white;
+	}
+
+.fonte
+{font-family:Century Gothic;
+font-size:21px;
+}
